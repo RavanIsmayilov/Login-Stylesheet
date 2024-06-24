@@ -1,0 +1,40 @@
+.main {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  justify-content: space-evenly;
+  gap: 50px;
+}
+.main_text-title {
+  font-size: 56px;
+}
+.main_text-subtitle {
+  font-size: 32px;
+  font-weight: 900;
+  font-family: cursive;
+}
+.main_btn {
+  width: 200px;
+  padding: 18px;
+  color: #fff;
+  background-color: #000;
+  font-size: 22px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.main_right {
+  width: 450px;
+  height: 650px;
+}
+
+.footer {
+  display: flex;
+  margin: 0px 0px 0px 9%;
+  gap: 35px;
+}
+.footer_icon {
+  width: 50px;
+  height: 50px;
+}/*# sourceMappingURL=style.css.map */
